@@ -15,7 +15,8 @@ KALFA is a project supported by [TUBITAK](http://tubitak.gov.tr/) as a three-yea
 | Project Type | [ARDEB-1001](https://www.tubitak.gov.tr/tr/destekler/akademik/ulusal-destek-programlari/icerik-1001-bilimsel-ve-teknolojik-arastirma-projelerini-destekleme-pr) | 
 | Budget          | ~ TRY 700K (~ $ 90K) |
 | Coordinator | [Erol Sahin](http://www.kovan.ceng.metu.edu.tr/~erol/Home.html) [KOVAN Research Lab, Dept. of Computer Eng., METU]     |
-| Researchers | [Sinan Kalkan](http://kovan.ceng.metu.edu.tr/~sinan/) [KOVAN Research Lab, Dept. of Computer Eng., METU] and [Hatice Gunes](https://www.cl.cam.ac.uk/~hg410/) [Affective Intelligence & Robotics Lab, Dept. of Computer Science and Techn., University of Cambridge] |
+| Researchers | [Sinan Kalkan](http://kovan.ceng.metu.edu.tr/~sinan/) [KOVAN Research Lab, Dept. of Computer Eng., METU] and 
+          [Hatice Gunes](https://www.cl.cam.ac.uk/~hg410/) [Affective Intelligence & Robotics Lab, Dept. of Computer Science and Techn., University of Cambridge] |
 | Students    | Ozgur Aslan, Burak Bolat   |
 
 
