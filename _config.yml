@@ -1,8 +1,8 @@
-title: "CENG240: Programming with Python for Engineers"
+title: "METU-KALFA Project Page"
 author:
-  name: Sinan Kalkan, Onur Tolga Sehitoglu, Gokturk Ucoluk
+  name: Sinan Kalkan, Hatice Gunes, Erol Sahin
 description: > # this means to ignore newlines until "show_excerpts:"
-  This is the official course page for CENG240: Programming with Python for Engineers
+  This is the official page for the METU-KALFA Project.
 
 show_excerpts: false # set to true to show excerpts on the homepage
 
@@ -54,4 +54,4 @@ theme: minima
 
 plugins:
  #- jekyll-feed
- #- jekyll-seo-tag
+ - jekyll-seo-tag
