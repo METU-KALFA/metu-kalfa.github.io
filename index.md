@@ -16,7 +16,7 @@ KALFA is a project supported by [TUBITAK](http://tubitak.gov.tr/) as a three-yea
 | Budget          | ~ TRY 700K (~ $ 90K) |
 | Coordinator | [Erol Sahin](http://www.kovan.ceng.metu.edu.tr/~erol/Home.html)      |
 | Researchers | [Sinan Kalkan](http://kovan.ceng.metu.edu.tr/~sinan/) and [Hatice Gunes](https://www.cl.cam.ac.uk/~hg410/) |
-| Students    | TBA     |
+| Students    | Ozgur Aslan, Burak Bolat   |
 
 
 ### Summary
