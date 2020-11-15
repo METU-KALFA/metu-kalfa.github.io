@@ -1,6 +1,3 @@
-## KALFA (New Methods for Assembly Scenarios with Collaborative Robots) Project Page
-{:.no_toc}
-
 This is the webpage for the project KALFA (New Methods for Assembly Scenarios with Collaborative Robots).
 
 * TOC 
