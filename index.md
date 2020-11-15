@@ -13,9 +13,9 @@ KALFA is a project supported by [TUBITAK](http://tubitak.gov.tr/) as a three-yea
 | ------------- | -------- |
 | Project No    | 120E269     |
 | Project Type | [ARDEB-1001](https://www.tubitak.gov.tr/tr/destekler/akademik/ulusal-destek-programlari/icerik-1001-bilimsel-ve-teknolojik-arastirma-projelerini-destekleme-pr) | 
-| Budget          | TRY >700K (< $ 100K) |
+| Budget          | ~ TRY 700K (~ $ 90K) |
 | Coordinator | [Erol Sahin](http://www.kovan.ceng.metu.edu.tr/~erol/Home.html)      |
-| Researchers | [SinanKalkan](http://kovan.ceng.metu.edu.tr/~sinan/) and [Hatice Gunes](https://www.cl.cam.ac.uk/~hg410/) |
+| Researchers | [Sinan Kalkan](http://kovan.ceng.metu.edu.tr/~sinan/) and [Hatice Gunes](https://www.cl.cam.ac.uk/~hg410/) |
 | Students    | TBA     |
 
 
