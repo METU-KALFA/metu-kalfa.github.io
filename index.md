@@ -7,7 +7,7 @@ This is the webpage for the project KALFA (New Methods for Assembly Scenarios wi
 
 ### What is KALFA?
 
-KALFA is a project supported by [TUBITAK](http://tubitak.gov.tr/) as a three-year project (2020-2023) for developing collaborative robotic manipulators that can function as a helper to human workers on factory assembly lines. Here are the details of the project.
+KALFA is a project supported by [TUBITAK](http://tubitak.gov.tr/) as a three-year project (2020-2023) for developing collaborative robotic manipulators that can function as a helper to human workers on factory assembly lines. The project is being conducted at [KOVAN Research Lab, Dept. of Computer Eng., METU](kovan.ceng.metu.edu.tr) in collaboration with [Affective Intelligence & Robotics Lab, Dept. of Computer Science and Techn., University of Cambridge](https://www.cl.cam.ac.uk/~hg410/people.html).
 
 | <!-- -->      | <!-- --> |
 | ------------- | -------- |
