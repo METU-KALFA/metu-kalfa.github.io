@@ -37,6 +37,25 @@ The KALFA project will focus on three main issues for Cobots to be used more eas
 
 * Improving non-verbal human-robot interaction (HRI) capabilities in Cobots: In the ÇIRAK project it was shown that applying some of Disney's animation principles to a Cobot improves the quality of HRI. The KALFA project will advance these proof-of-concept works in three directions to develop a full non-verbal communication ability in Cobots: (1) After evaluating how all of Disney's animation principles can be applied to improve the quality of HRI, these principles will be formally defined and integrated into cobots as parameterized “HRI filters”. (2) Methods for detecting non-verbal communication clues of the workers in the assembly scenarios will be developed. (3) Non-verbal communication cues from workers will be associated with HRI-filters in order to increase the harmony between Kobot and the worker. The effects of these methods on the quality of HRI will be measured by human-robot experiments.
 
+![image](./visuals/appealNoAppeal-final.jpg)  
+
+
+
+<figure class="video_container">
+    <style>
+    .center {
+        margin-left: auto;
+        margin-right: auto;
+        display: block;
+        height: 450px
+    }
+    </style>
+    <video class="center" controls="true" allowfullscreen="true" poster="path/to/poster_image.png">
+        <source src="./visuals/v2_Trim.mp4" type="video/mp4">
+    </video>
+</figure>
+
+<!--img src="./visuals/appealNoAppeal-final.jpg" alt="drawing"/-->
 
 ### Contact
 
