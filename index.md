@@ -5,6 +5,10 @@ This is the webpage for the project KALFA (New Methods for Assembly Scenarios wi
 
 ------
 
+<p align="center">
+    <img src="./visuals/teaserPhoto.jpg" width="49%">
+</p>
+
 ### What is KALFA?
 
 KALFA is a project supported by [TUBITAK](http://tubitak.gov.tr/) as a three-year project (2020-2023) for developing collaborative robotic manipulators that can function as a helper to human workers on factory assembly lines. The project is being conducted at [KOVAN Research Lab, Dept. of Computer Eng., METU](kovan.ceng.metu.edu.tr) in collaboration with [Affective Intelligence & Robotics Lab, Dept. of Computer Science and Techn., University of Cambridge](https://www.cl.cam.ac.uk/~hg410/people.html).
@@ -23,9 +27,20 @@ KALFA is a project supported by [TUBITAK](http://tubitak.gov.tr/) as a three-yea
 
 Collaborative robotic manipulators (Cobots) are the new generation of robots that are designed to work safely in the same environment with humans. These robots, which are expected to take industrial automation to the next level, are expected to increase production efficiency while working in direct contact and collaboration with people, unlike conventional industrial robotic manipulators working in safety cages isolated from humans. The world-wide Cobot market size is projected to grow 5 times between 2020 and 2025 (Statista, 2020).
 
+<p display="inline-block">
+    <img src="./visuals/IVAR-senaryo-Yunus-Fatih.png" width="49%">
+    <img src="./visuals/IVAR-senaryo-Yunus-UR5.jpg" width="49%">
+</p>
+
+
 In addition to working with workers for long periods of time at big industrial assembly lines, Cobots are expected to take part in frequently changing tasks, mainly in medium and small businesses. In this context, the KALFA project aims to develop artificial intelligence methods that will facilitate the use of Cobots in assembly scenarios, and human-robot interaction (IRE) capabilities that will support these robots to work in harmony and efficiently with workers.
 
 The proposed project has been defined as the continuation of the “ÇIRAK: Compatible robotic manipulator support for assembly workers” project. In the ÇIRAK project, which aims to “develop a robot manipulator system that will provide the parts and tools needed by the worker during assembly, and return the ones that are no longer needed to their places”, for an assembly task whose plan is known by the robot, (i) representation of the assembly plan and the diary, (ii) perception of the human coworker, object parts and the tools, and (iii) detection of whether the ongoing assembly conforms to the plan or whether there is any error.
+
+<p display="inline-block">
+    <img src="./visuals/Demo_p1.gif" width="100%">
+    <img src="./visuals/Demo_p2.gif" width="100%">
+</p>
 
 ### Objectives 
 
@@ -39,8 +54,7 @@ The KALFA project will focus on three main issues for Cobots to be used more eas
 
 ![image](./visuals/appealNoAppeal-final.jpg)  
 
-
-
+<!--
 <figure class="video_container">
     <style>
     .center {
@@ -54,6 +68,7 @@ The KALFA project will focus on three main issues for Cobots to be used more eas
         <source src="./visuals/v2_Trim.mp4" type="video/mp4">
     </video>
 </figure>
+-->
 
 <!--img src="./visuals/appealNoAppeal-final.jpg" alt="drawing"/-->
 
