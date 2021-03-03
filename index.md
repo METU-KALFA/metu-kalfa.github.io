@@ -1,15 +1,42 @@
 This is the webpage for the project KALFA (New Methods for Assembly Scenarios with Collaborative Robots).
 
-* TOC 
-{:toc}
+
+<style>
+.aS {
+  display: block;
+  list-style-type: disc;
+  margin-left: 1em;
+  margin-right: 1em;
+  float: left;
+}
+
+.divS{
+  display: block;
+  list-style-type: disc;
+
+  overflow: auto;
+  padding-left: 4.1em;
+  padding-right: 4.1em;
+}
+</style>
+
+
+<div class="divS">
+  <a class="aS" href="#wik">What is KALFA?</a>
+  <a class="aS" href="#summary">Summary</a>
+  <a class="aS" href="#objectives">Objectives</a>
+  <a class="aS" href="#contact">Contact</a>
+</div>  
+
 
 ------
 
 <p align="center">
-    <img src="./visuals/teaserPhoto.jpg" width="49%">
+    <img src="./visuals/YunusUR5.png" width="100%">
 </p>
 
-### What is KALFA?
+-----
+### <tag id="wik">What is KALFA?</tag>
 
 KALFA is a project supported by [TUBITAK](http://tubitak.gov.tr/) as a three-year project (2020-2023) for developing collaborative robotic manipulators that can function as a helper to human workers on factory assembly lines. The project is being conducted at [KOVAN Research Lab, Dept. of Computer Eng., METU](kovan.ceng.metu.edu.tr) in collaboration with [Affective Intelligence & Robotics Lab, Dept. of Computer Science and Techn., University of Cambridge](https://www.cl.cam.ac.uk/~hg410/people.html).
 
@@ -23,7 +50,7 @@ KALFA is a project supported by [TUBITAK](http://tubitak.gov.tr/) as a three-yea
 | Students    | Ozgur Aslan, Batuhan Bal, Burak Bolat, Tugba Tumer   |
 
 
-### Summary
+### <tag id="summary">Summary</tag> 
 
 Collaborative robotic manipulators (Cobots) are the new generation of robots that are designed to work safely in the same environment with humans. These robots, which are expected to take industrial automation to the next level, are expected to increase production efficiency while working in direct contact and collaboration with people, unlike conventional industrial robotic manipulators working in safety cages isolated from humans. The world-wide Cobot market size is projected to grow 5 times between 2020 and 2025 (Statista, 2020).
 
@@ -42,7 +69,7 @@ The proposed project has been defined as the continuation of the “ÇIRAK: Comp
     <img src="./visuals/Demo_p2.gif" width="100%">
 </p>
 
-### Objectives 
+### <tag id=objectives>Objectives</tag> 
 
 The KALFA project will focus on three main issues for Cobots to be used more easily in assembly scenarios and to support more harmonious and efficient interaction with the worker they work with:
 
@@ -72,6 +99,6 @@ The KALFA project will focus on three main issues for Cobots to be used more eas
 
 <!--img src="./visuals/appealNoAppeal-final.jpg" alt="drawing"/-->
 
-### Contact
+### <tag id=contact>Contact</tag> 
 
 Please use the following email address for course related issues: metu-kalfa [@] googlegroups [dot] com
