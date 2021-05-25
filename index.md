@@ -37,6 +37,14 @@ The KALFA project will focus on three main issues for Cobots to be used more eas
 
 * Improving non-verbal human-robot interaction (HRI) capabilities in Cobots: In the ÇIRAK project it was shown that applying some of Disney's animation principles to a Cobot improves the quality of HRI. The KALFA project will advance these proof-of-concept works in three directions to develop a full non-verbal communication ability in Cobots: (1) After evaluating how all of Disney's animation principles can be applied to improve the quality of HRI, these principles will be formally defined and integrated into cobots as parameterized “HRI filters”. (2) Methods for detecting non-verbal communication clues of the workers in the assembly scenarios will be developed. (3) Non-verbal communication cues from workers will be associated with HRI-filters in order to increase the harmony between Kobot and the worker. The effects of these methods on the quality of HRI will be measured by human-robot experiments.
 
+### Publications
+
+The list of publications (from KALFA and its precursor CIRAK project):
+
+* Kalkan, S., Terzioğlu, Y., Aslan, Ö., Bolat, B., Bal, B., Tümer, T., Kurnaz, F.C., Şahin, E. (2021). ICRA 2021 Workshop on Unlocking the Potential of HRC for Industrial Applications. 
+* Terzioğlu, Y., Mutlu, B., & Şahin, E. (2020). Designing social cues for collaborative robots: the role of gaze and breathing in human-robot collaboration. In Proceedings of the 2020 ACM/IEEE International Conference on Human-Robot Interaction (pp. 343-357). ([PDF])[http://dl.acm.org/doi/abs/10.1145/3319502.3374829].
+* Kurnaz, F. C., Hocaog̃lu, B., Yılmaz, M. K., Sülo, İ., & Kalkan, S. (2020). ALET (Automated Labeling of Equipment and Tools): A Dataset for Tool Detection and Human Worker Safety Detection. In European Conference on Computer Vision Workshop on Assistive Computer Vision and Robotics (pp. 371-386). ([Code and dataset])[https://github.com/metu-kovan/METU-ALET], ([PDF])[https://arxiv.org/abs/1910.11713].
+
 
 ### Contact
 
