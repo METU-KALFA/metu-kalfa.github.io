@@ -95,6 +95,7 @@ nav.fill ul li a {
       <li><a class="aS" href="#wik">What is KALFA?</a></li>
       <li><a class="aS" href="#summary">Summary</a></li>
       <li><a class="aS" href="#objectives">Objectives</a></li>
+      <li><a class="aS" href="#publications">Publications</a></li>
       <li><a class="aS" href="#contact">Contact</a></li>
     </ul>
   </nav>
@@ -150,7 +151,7 @@ The KALFA project will focus on three main issues for Cobots to be used more eas
 
 * Improving non-verbal human-robot interaction (HRI) capabilities in Cobots: In the ÇIRAK project it was shown that applying some of Disney's animation principles to a Cobot improves the quality of HRI. The KALFA project will advance these proof-of-concept works in three directions to develop a full non-verbal communication ability in Cobots: (1) After evaluating how all of Disney's animation principles can be applied to improve the quality of HRI, these principles will be formally defined and integrated into cobots as parameterized “HRI filters”. (2) Methods for detecting non-verbal communication clues of the workers in the assembly scenarios will be developed. (3) Non-verbal communication cues from workers will be associated with HRI-filters in order to increase the harmony between Kobot and the worker. The effects of these methods on the quality of HRI will be measured by human-robot experiments.
 
-### Publications
+### <tag id=publications>Publications</tag> 
 
 The list of publications (from KALFA and its precursor CIRAK project):
 
@@ -159,7 +160,6 @@ The list of publications (from KALFA and its precursor CIRAK project):
 * Kurnaz, F. C., Hocaog̃lu, B., Yılmaz, M. K., Sülo, İ., & Kalkan, S. (2020). ALET (Automated Labeling of Equipment and Tools): A Dataset for Tool Detection and Human Worker Safety Detection. In European Conference on Computer Vision Workshop on Assistive Computer Vision and Robotics (pp. 371-386). [[Code and dataset]](https://github.com/metu-kovan/METU-ALET), [[PDF]](https://arxiv.org/abs/1910.11713).
 
 
-### Contact
 ![image](./visuals/appealNoAppeal-final.jpg)  
 
 <!--
