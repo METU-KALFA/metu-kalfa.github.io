@@ -155,15 +155,12 @@ The KALFA project will focus on three main issues for Cobots to be used more eas
 
 The list of publications (from KALFA and its precursor CIRAK project):
 
-* Kalkan, S., Terzioğlu, Y., Aslan, Ö., Bolat, B., Bal, B., Tümer, T., Kurnaz, F.C., Şahin, E. (2021). ICRA 2021 Workshop on Unlocking the Potential of HRC for Industrial Applications. [[PDF]](http://kovan.ceng.metu.edu.tr/~sinan/Terzioglu_ICRA2021WS.pdf), [[Video]](https://collaborate-project.eu/wp-content/uploads/2021/05/9.-Yunus-Terzioglu-Terzioglu.mp4)
+* Kalkan, S., Terzioğlu, Y., Aslan, Ö., Bolat, B., Bal, B., Tümer, T., Kurnaz, F.C., Şahin, E. (2021). ICRA 2021 Workshop on Unlocking the Potential of HRC for Industrial Applications. [[PDF]](http://kovan.ceng.metu.edu.tr/~sinan/Terzioglu_ICRA2021WS.pdf), [[Video]](#yunus_vid)
+* Özcan, A. M., Acartürk, C., Şahin, E. (2021). ICRA 2021 Workshop on Unlocking the Potential of HRC for Industrial Applications. [[PDF]](https://collaborate-project.eu/wp-content/uploads/2021/05/10.-Ahmet-Ozcan-O%CC%88zcan_URTrust_Paper.pdf?6bfec1&6bfec1), [[Video]](#meric_vid)
 * Terzioğlu, Y., Mutlu, B., & Şahin, E. (2020). Designing social cues for collaborative robots: the role of gaze and breathing in human-robot collaboration. In Proceedings of the 2020 ACM/IEEE International Conference on Human-Robot Interaction (pp. 343-357). [[PDF]](http://dl.acm.org/doi/abs/10.1145/3319502.3374829).
 * Kurnaz, F. C., Hocaog̃lu, B., Yılmaz, M. K., Sülo, İ., & Kalkan, S. (2020). ALET (Automated Labeling of Equipment and Tools): A Dataset for Tool Detection and Human Worker Safety Detection. In European Conference on Computer Vision Workshop on Assistive Computer Vision and Robotics (pp. 371-386). [[Code and dataset]](https://github.com/metu-kovan/METU-ALET), [[PDF]](https://arxiv.org/abs/1910.11713).
 
-
-![image](./visuals/appealNoAppeal-final.jpg)  
-
-<!--
-<figure class="video_container">
+<figure id="yunus_vid">
     <style>
     .center {
         margin-left: auto;
@@ -173,10 +170,26 @@ The list of publications (from KALFA and its precursor CIRAK project):
     }
     </style>
     <video class="center" controls="true" allowfullscreen="true" poster="path/to/poster_image.png">
-        <source src="./visuals/v2_Trim.mp4" type="video/mp4">
+        <source src="./visuals/9.-Yunus-Terzioglu-Terzioglu.mp4" type="video/mp4">
     </video>
 </figure>
--->
+
+<figure id="meric_vid">
+    <style>
+    .center {
+        margin-left: auto;
+        margin-right: auto;
+        display: block;
+        height: 450px
+    }
+    </style>
+    <video class="center" controls="true" allowfullscreen="true" poster="path/to/poster_image.png">
+        <source src="./visuals/10.-Ahmet-Ozcan-Özcan.mp4" type="video/mp4">
+    </video>
+</figure>
+
+
+<!-- ![image](./visuals/appealNoAppeal-final.jpg) -->
 
 <!--img src="./visuals/appealNoAppeal-final.jpg" alt="drawing"/-->
 
