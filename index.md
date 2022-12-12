@@ -155,6 +155,7 @@ The KALFA project will focus on three main issues for Cobots to be used more eas
 
 The list of publications (from KALFA and its precursor CIRAK project):
 
+* Aslan, O., Bolat, B.,  Bal, B., Tumer, T., Sahin, E., Kalkan, S., "AssembleRL: Learning to Assemble Furniture from Their Point Clouds", IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2022. [[Code]](https://github.com/METU-KALFA/AssembleRL), [[PDF]](https://arxiv.org/abs/2209.07268)
 * Kalkan, S., Terzioğlu, Y., Aslan, Ö., Bolat, B., Bal, B., Tümer, T., Kurnaz, F.C., Şahin, E. (2021). ICRA 2021 Workshop on Unlocking the Potential of HRC for Industrial Applications. [[PDF]](http://kovan.ceng.metu.edu.tr/~sinan/Terzioglu_ICRA2021WS.pdf), [[Video]](#yunus_vid)
 * Özcan, A. M., Acartürk, C., Şahin, E. (2021). ICRA 2021 Workshop on Unlocking the Potential of HRC for Industrial Applications. [[PDF]](https://collaborate-project.eu/wp-content/uploads/2021/05/10.-Ahmet-Ozcan-O%CC%88zcan_URTrust_Paper.pdf?6bfec1&6bfec1), [[Video]](#meric_vid)
 * Terzioğlu, Y., Mutlu, B., & Şahin, E. (2020). Designing social cues for collaborative robots: the role of gaze and breathing in human-robot collaboration. In Proceedings of the 2020 ACM/IEEE International Conference on Human-Robot Interaction (pp. 343-357). [[PDF]](http://dl.acm.org/doi/abs/10.1145/3319502.3374829).
