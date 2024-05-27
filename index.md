@@ -110,7 +110,7 @@ nav.fill ul li a {
 -----
 ### <tag id="wik">What is KALFA?</tag>
 
-KALFA is a project supported by [TUBITAK](http://tubitak.gov.tr/) as a three-year project (2020-2023) for developing collaborative robotic manipulators that can function as a helper to human workers on factory assembly lines. The project is being conducted at [KOVAN Research Lab, Dept. of Computer Eng., METU](kovan.ceng.metu.edu.tr) in collaboration with [Affective Intelligence & Robotics Lab, Dept. of Computer Science and Techn., University of Cambridge](https://www.cl.cam.ac.uk/~hg410/people.html).
+KALFA is a project supported by [TUBITAK](http://tubitak.gov.tr/) as a three-year project (2020-2023) for developing collaborative robotic manipulators that can function as a helper to human workers on factory assembly lines. The project is being conducted at [ROMER Center for Robotics and Artificial Intelligence, METU](https://romer.metu.edu.tr/) in collaboration with [Affective Intelligence & Robotics Lab, Dept. of Computer Science and Techn., University of Cambridge](https://www.cl.cam.ac.uk/~hg410/people.html).
 
 | <!-- -->      | <!-- --> |
 | ------------- | -------- |
@@ -119,7 +119,7 @@ KALFA is a project supported by [TUBITAK](http://tubitak.gov.tr/) as a three-yea
 | Budget          | ~ TRY 700K (~ $ 90K) |
 | Coordinator | [Erol Sahin](http://www.kovan.ceng.metu.edu.tr/~erol/Home.html) [KOVAN Research Lab, Dept. of Computer Eng., METU]     |
 | Researchers | [Sinan Kalkan](http://kovan.ceng.metu.edu.tr/~sinan/) [KOVAN Research Lab, Dept. of Computer Eng., METU] and [Hatice Gunes](https://www.cl.cam.ac.uk/~hg410/) [Affective Intelligence & Robotics Lab, Dept. of Computer Science and Techn., University of Cambridge] |
-| Students    | Ozgur Aslan, Batuhan Bal, Burak Bolat, Tugba Tumer   |
+| Students    | Ozgur Aslan, Burak Bolat, Yunus Talha Erzurumlu, Hasan Ege Meyvecioglu, Denge Uzel, Yusufhan Ali Ustun   |
 
 
 ### <tag id="summary">Summary</tag> 
@@ -155,6 +155,9 @@ The KALFA project will focus on three main issues for Cobots to be used more eas
 
 The list of publications (from KALFA and its precursor CIRAK project):
 
+* D. Uzel, “Learning to assemble furniture from their 2D drawings,” M.S. - Master of Science, Middle East Technical University, 2023. [[PDF]](https://open.metu.edu.tr/handle/11511/107815)
+* Y. Terzioglu, O. Aslan, B. Bolat, B. Bal, T. Tumer, F. C. Kurnaz, S. Kalkan, E. Sahin, "APPRENTICE: Advances towards the development of a Cobot Helper in Assembly Lines", CH10 of Human-Robot Collaboration: Unlocking the potential for industrial applications, IET Press, Editors: Z. Doulgeri, F. Dimeas, in press, ISBN: 9781839535987, 2023. [[Publisher's webpage]](https://shop.theiet.org/human-robot-collaboration)
+* A. N. Güneşdoğdu, “GENERATION AND ANALYSIS OF “BREATHING” AS AN HRI BEHAVIOR ON A COBOT,” M.S. - Master of Science, Middle East Technical University, 2022. [[PDF]](https://open.metu.edu.tr/handle/11511/99501)
 * Aslan, O., Bolat, B.,  Bal, B., Tumer, T., Sahin, E., Kalkan, S., "AssembleRL: Learning to Assemble Furniture from Their Point Clouds", IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2022. [[Code]](https://github.com/METU-KALFA/AssembleRL), [[PDF]](https://arxiv.org/abs/2209.07268)
 * Kalkan, S., Terzioğlu, Y., Aslan, Ö., Bolat, B., Bal, B., Tümer, T., Kurnaz, F.C., Şahin, E. (2021). ICRA 2021 Workshop on Unlocking the Potential of HRC for Industrial Applications. [[PDF]](http://kovan.ceng.metu.edu.tr/~sinan/Terzioglu_ICRA2021WS.pdf), [[Video]](#yunus_vid)
 * Özcan, A. M., Acartürk, C., Şahin, E. (2021). ICRA 2021 Workshop on Unlocking the Potential of HRC for Industrial Applications. [[PDF]](https://collaborate-project.eu/wp-content/uploads/2021/05/10.-Ahmet-Ozcan-O%CC%88zcan_URTrust_Paper.pdf?6bfec1&6bfec1), [[Video]](#meric_vid)
