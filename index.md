@@ -155,7 +155,7 @@ The KALFA project will focus on three main issues for Cobots to be used more eas
 
 The list of publications (from KALFA and its precursor CIRAK project):
 
-* B. Bolat, "Formulating Social Cues for Collaborative Robots", Master of Science Thesis, Middle East Technical University, 2023. [[PDF](https://open.metu.edu.tr/handle/11511/111539)]
+* B. Bolat, "Formulating Social Cues for Collaborative Robots", Master of Science Thesis, Middle East Technical University, 2024. [[PDF](https://open.metu.edu.tr/handle/11511/111539)]
 * D. Uzel, “Learning to assemble furniture from their 2D drawings,” Master of Science Thesis, Middle East Technical University, 2023. [[PDF](https://open.metu.edu.tr/handle/11511/107815)]
 * O. Aslan, "Learning furniture assembly with reinforcement learning", Master of Science Thesis, Middle East Technical University, 2023. [[PDF](https://open.metu.edu.tr/handle/11511/110398)]
 * Y. Terzioglu, O. Aslan, B. Bolat, B. Bal, T. Tumer, F. C. Kurnaz, S. Kalkan, E. Sahin, "APPRENTICE: Advances towards the development of a Cobot Helper in Assembly Lines", CH10 of Human-Robot Collaboration: Unlocking the potential for industrial applications, IET Press, Editors: Z. Doulgeri, F. Dimeas, in press, ISBN: 9781839535987, 2023. [[Publisher's webpage](https://digital-library.theiet.org/doi/10.1049/pbce134e_ch10)]
